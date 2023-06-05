@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/OneDrive - University of the Philippines/Desktop/UPD Catalogue/UPD3.2S/CS 180/2nd Half Exercises/.idea/2nd Half Exercises.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OneDrive - University of the Philippines/Desktop/UPD Catalogue/UPD3.2S/CS 180/Python_for_ML/.idea/Python_for_ML.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\YSHebron\AppData\Local\Microsoft\WindowsApps\python3.11.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
